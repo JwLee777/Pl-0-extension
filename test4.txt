@@ -1,0 +1,12 @@
+var a,b;
+/*this is an example*/
+begin
+	a:=0;
+	read(b);
+	write(b);	
+	if b<=3
+	then
+	  a:=1;
+	else
+	  a:=2;
+end.

@@ -1,0 +1,4 @@
+﻿  pl0.c
+C:\Users\John Lee\Documents\Tencent Files\1079281324\FileRecv\pl0\pl0\pl0.c(65,15): warning C4013: “isalpha”未定义；假设外部返回 int
+C:\Users\John Lee\Documents\Tencent Files\1079281324\FileRecv\pl0\pl0\pl0.c(77,39): warning C4013: “isdigit”未定义；假设外部返回 int
+  pl0.vcxproj -> C:\Users\John Lee\source\repos\pl0\Debug\pl0.exe
